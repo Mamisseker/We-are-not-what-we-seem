@@ -25,15 +25,6 @@
 
 ---
 
-## 🛠 Технологии (Stack)
-
-![Figma](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-
----
-
 ## 📂 Структура репозитория
 
 ```text
